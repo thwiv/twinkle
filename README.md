@@ -1,6 +1,6 @@
 # Twinkle - A Christmas Season Bedtime Story
-####By Thomas H. Walsh
-#####Transcribed By Thomas H. Walsh IV
+#### By Thomas H. Walsh
+##### Transcribed By Thomas H. Walsh IV
 
 ---
 Around this time of the year, when all the leaves have fallen from the trees,
@@ -149,8 +149,8 @@ And on Christmas Eve, if you are awakened by whispering voices in the living roo
 
 Now on his long journey to bring happiness to children around the world, Santa is no longer lonely.
 
-##The End
+## The End
 
-###Dedicated to our children and theirs.
+### Dedicated to our children and theirs.
 
-####T. H. Walsh
+#### T. H. Walsh
